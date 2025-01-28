@@ -70,7 +70,3 @@ Falls du Verbesserungsvorschläge hast oder einen Fehler gefunden hast, erstelle
 - [messerinzidenz.de](https://messerinzidenz.de) für die Bereitstellung der API.
 - [Mapbox](https://www.mapbox.com/) für die Kartenintegration.
 - [Discord.py](https://discordpy.readthedocs.io/) für die Discord-Bot-Entwicklung.
-
----
-
-Diese Beschreibung bietet einen guten Überblick über dein Projekt und erklärt, wie man es einrichtet und verwendet. Du kannst sie in die `README.md`-Datei deines GitHub-Repositorys einfügen.
